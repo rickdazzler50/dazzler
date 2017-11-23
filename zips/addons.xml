@@ -22,7 +22,7 @@
 </addon>
 
 <addon id="plugin.video.13"
-       name="Channel 13"
+       name="Local News"
        version="1.0"
        provider-name="Firestickplusman">
   <requires>
