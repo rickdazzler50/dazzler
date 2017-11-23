@@ -21,7 +21,6 @@
   </extension>
 </addon>
 
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.localnews"
        name="WBKO 13 News"
        version="1.0"
