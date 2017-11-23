@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-	
 <addon id="plugin.video.wwe-on-demand" name="Wrestling On Demand" version="5.02" provider-name="Bear and Jay">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -20,7 +19,6 @@
     <platform>all</platform>
   </extension>
 </addon>
-
 <addon id="plugin.video.13"
        name="Channel 13"
        version="1.0"
