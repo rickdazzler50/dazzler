@@ -21,7 +21,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.localnews"
+<addon id="plugin.video.LocalNews"
        name="WBKO 13 News"
        version="1.0"
        provider-name="Rick Dazzler">
@@ -46,8 +46,8 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">WBKO 13 Local News</summary>
-    <description lang="en">WBKO 13 Local News: Shows live when on air and replays when off air.</description>
+    <summary lang="en">Bowling Green Ky Local News</summary>
+    <description lang="en">Bowling Green Ky Local News Addon</description>
     <platform>all</platform>
   </extension>
 </addon>
