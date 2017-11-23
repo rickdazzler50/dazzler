@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.localnews"
-       name="Local News"
+       name="WBKO 13 News"
        version="1.0"
-       provider-name="Firestickplusman">
+       provider-name="Rick Dazzler">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.t0mm0.common" version="2.0.0"/>
@@ -24,8 +24,9 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Bowling Green Ky Local News</summary>
-    <description lang="en">Bowling Green Ky Local News Addon</description>
+    <summary lang="en">WBKO 13 Local News</summary>
+    <description lang="en">WBKO 13 Local News: Shows live when on air and replays when off air.</description>
     <platform>all</platform>
   </extension>
 </addon>
+
